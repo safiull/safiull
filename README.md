@@ -5,11 +5,17 @@ I’m a professional web developer with 3+ years of experience in developing PHP
 #### Skills: Vue.js / Laravel / JavaScript / PHP / HTML / CSS / Bootstrap / jQuery / Rest API
 
 
+<h3 align="left">Let's contact with me:</h3>
+<p align="left">
+<a href="https://twitter.com/MdSafiull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safiull" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/safiull/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safiull" height="30" width="40" /></a>
+<a href="https://www.facebook.com/safiul.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safiull" height="30" width="40" /></a>
+<a href="https://www.facebook.com/safiul.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safiull" height="30" width="40" /></a>
+</p> 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/safiull)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/safiull//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/safiul.live)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdSafiull)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiull&show_icons=true&locale=en&layout=compact" alt="safiull" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=safiull&show_icons=true&count_private=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiull&show_icons=true&locale=en" alt="safiull" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/safiull)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiull&" alt="safiull" /></p>
 ![Profile views](https://gpvc.arturio.dev/safiull)  
