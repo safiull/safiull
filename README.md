@@ -13,7 +13,7 @@ I’m a professional web developer with 3+ years of experience in developing PHP
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=safiull&show_icons=true&theme=gruvbox#gh-dark-mode-only)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=safiull&show_icons=true&theme=tokyonight#gh-tokyonight-mode-only)  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiull&" alt="safiull" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiull&show_icons=true&locale=en&layout=compact" alt="safiull" /></p>
 
