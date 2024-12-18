@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Safiull Alam
 #### Full stack web developer(Laravel, Vue.js)
-I’m a professional web developer with 3+ years of experience in developing PHP and Laravel websites with Vue.JS. I can build and design customized web applications with 100% efficiency by using HTML, CSS, Bootstrap, JavaScript, jQuery, Vue.JS, PHP, Laravel, MYSQL.
+I’m a professional web developer with 4+ years of experience in developing PHP and Laravel websites with Vue.JS. I can build and design customized web applications with 100% efficiency by using HTML, CSS, Bootstrap, JavaScript, jQuery, Vue.JS, PHP, Laravel, MYSQL.
 #### Skills: PHP / Laravel / Vue.js / JavaScript /  HTML / CSS / Bootstrap / jQuery / Rest API 
 
 <h3 align="left">Let's contact with me:</h3>
