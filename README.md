@@ -1,71 +1,83 @@
 <h1 align="center">Hi 👋, I'm Safiull Alam</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Laravel & Vue.js Specialist</h3>
+<h3 align="center">🚀 Team Lead | Senior Full Stack Developer | Laravel Specialist</h3>
 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=safiull&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/></a>
+  <img src="https://komarev.com/ghpvc/?username=safiull&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m a **Full Stack Developer** with **5+ years of experience**
-- 💡 Specialized in building **scalable web applications**
-- ⚙️ Strong expertise in **Laravel & Vue.js ecosystem**
-- 🎯 Focused on **clean code, performance & user experience**
-- 🌱 Always learning new technologies & improving skills
+- 💼 Team Lead at **Acnoo**
+- 🧠 5+ years building **production-grade SaaS applications**
+- 🏗️ Expert in **Multi-Tenant Architecture & Scalable Systems**
+- ⚡ Strong focus on **performance optimization & clean architecture**
+- 🔥 Built systems like **POS, ERP, HRM, Salon SaaS, Multi-vendor platforms**
+- 👨‍🏫 Mentoring developers & leading engineering teams
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,jquery,mysql,git" />
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,jquery,mysql,git,firebase" />
 </p>
 
 ---
 
-### 🚀 What I Do
+## 🧩 Core Expertise
 
-- 🧩 Custom Web Application Development  
-- 🔌 REST API Development & Integration  
-- 📊 Dashboard & Admin Panel Development  
-- ⚡ Performance Optimization  
-- 🔒 Secure & Scalable Backend Systems  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safiull&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiull&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiull&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+- 🏗️ SaaS & Multi-Tenant System Design  
+- 🔌 REST API Development (High-scale)  
+- ⚙️ Backend Architecture (Laravel, Lumen)  
+- 📊 Database Optimization & Query Tuning  
+- 🔐 Authentication (JWT, Session-based)  
+- ⚡ Queues, Events, Real-time systems  
+- 💳 Payment Gateway Integration  
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Projects & Systems
+
+- 🧾 POS SaaS System (Multi-tenant)
+- 💇 Salon Management SaaS
+- 🏢 ERP & HRM Solutions
+- 🛒 Multi-vendor eCommerce Platform
+- 💳 Payment Gateway System
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=safiull&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiull&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiull&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## 🌐 Connect With Me
 
-> I love turning complex problems into simple, beautiful solutions 💡
+<p align="center">
+  <a href="https://github.com/safiull"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/safiull"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:safiullalam9931@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+> I build scalable systems, not just features.  
+> I focus on performance, maintainability, and real-world impact.
 
 ---
 
