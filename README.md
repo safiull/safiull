@@ -13,15 +13,23 @@
 - 🧠 5+ years building **production-grade SaaS applications**
 - 🏗️ Expert in **Multi-Tenant Architecture & Scalable Systems**
 - ⚡ Strong focus on **performance optimization & clean architecture**
-- 🔥 Built systems like **POS, ERP, HRM, Salon SaaS, Multi-vendor platforms**
-- 👨‍🏫 Mentoring developers & leading engineering teams
+- 🔥 Built enterprise systems including:
+  - POS SaaS
+  - ERP & HRM
+  - School Management Systems
+  - Salon SaaS
+  - Multi-vendor eCommerce Platforms
+  - SMS Gateway Systems
+  - Payment Gateway Solutions
+- 👨‍🏫 Leading engineering teams & mentoring developers
+- 🚀 Passionate about scalable backend architecture & SaaS products
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,bootstrap,jquery,mysql,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,vue,nuxtjs,react,nextjs,js,html,css,bootstrap,tailwind,mysql,postgres,mongodb,firebase,git,docker,aws" />
 </p>
 
 ---
@@ -32,19 +40,28 @@
 - 🔌 REST API Development (High-scale)  
 - ⚙️ Backend Architecture (Laravel, Lumen)  
 - 📊 Database Optimization & Query Tuning  
-- 🔐 Authentication (JWT, Session-based)  
-- ⚡ Queues, Events, Real-time systems  
-- 💳 Payment Gateway Integration  
+- 🔐 Authentication (JWT, Passport, Sanctum, Session-based)  
+- ⚡ Queues, Events & Real-time Systems  
+- 💳 Payment Gateway Integration (SSLCommerz & Custom Gateways)  
+- 📩 Bulk SMS Gateway Integration & SMS Automation  
+- ☁️ Cloud & Deployment (AWS, DigitalOcean, Firebase)  
+- 🧠 Team Leadership & Technical Decision Making  
 
 ---
 
 ## 🚀 Projects & Systems
 
-- 🧾 POS SaaS System (Multi-tenant)
+- 🧾 Multi-tenant POS SaaS System
+- 🏫 School Management System
 - 💇 Salon Management SaaS
 - 🏢 ERP & HRM Solutions
 - 🛒 Multi-vendor eCommerce Platform
-- 💳 Payment Gateway System
+- 🚚 Courier Management System
+- 🏨 Hotel Management System
+- 📩 Bulk SMS Gateway System
+- 💳 Payment Gateway Systems (SSLCommerz & Custom Solutions)
+- 📦 Subscription-based SaaS Platforms
+- 🌐 REST API-based Enterprise Applications
 
 ---
 
@@ -54,14 +71,30 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiull&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safiull&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiull&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/safiull"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/safiull"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:safiullalam9931@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/safiull">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://linkedin.com/in/safiull">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:safiullalam9931@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -69,7 +102,7 @@
 ## ⚡ Developer Mindset
 
 > I build scalable systems, not just features.  
-> I focus on performance, maintainability, and real-world impact.
+> I focus on architecture, performance, maintainability, and business impact.
 
 ---
 
